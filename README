@@ -20,7 +20,7 @@
 ---------------------------------------------------------------------------
 
 Neon v2 was a VJ I developed in the early 2000's for small VJ parties and some demoscene productions.
-It's deprecated now
+In 2.5 I wanted to reimplement UI using OpenGL, but then it got too big and the project died.
 
 What you will need to compile:
 
